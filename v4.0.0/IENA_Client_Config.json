@@ -1,0 +1,7 @@
+{
+
+    "Client_Cert_Path": "Certificates/Client/IENA_Member.crt",
+    "Client_Key_Path": "Certificates/Client/IENA_Member.key",
+    "CA_Cert_Path": "Certificates/Client/CA.crt"
+    
+}
